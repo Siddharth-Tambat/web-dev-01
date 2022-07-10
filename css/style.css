@@ -10,6 +10,10 @@ body {
     background-color: #EAF6F6;
 }
 
+.mountain-img {
+    width: 60%;
+}
+
 .top-cloud {
     position: relative;
     left: 29%;
@@ -24,12 +28,12 @@ body {
 h1 {
     font-family: 'Carattere', cursive;
     font-size: 562.5%;
-    color: #66BFBF;
+    color: #11999E;
 }
 
 h2 {
     font-size: 2rem;
-    color: #66BFBF;
+    color: #11999E;
     font-weight: normal;
 }
 
@@ -50,7 +54,7 @@ p {
 hr {
     border-color: #f0ecec;
     border-style: hidden;
-    width: 10%;
+    width: 7%;
     border-top-style: dotted;
     height: 20px;
     border-width: 7px;
@@ -80,31 +84,29 @@ hr {
 }
 
 .skill-row1 {
-    width: 60%;
+    width: 50%;
     margin: 150px auto 100px;
     text-align: left ;
 }
 
 .skill-row2 {
-    width: 60%;
+    width: 50%;
     margin: 250px auto 150px;
     text-align: left ;
 }
 
 .web-dev {
     width: 30%;
-    height: 30%;
     float: left;
-    margin-left: 120px;
+    margin-left: 200px;
     margin-right: 20px;
 }
 
 .app-dev {
     width: 30%;
-    height: 30%;
     float: right;
     margin-left: 20px;
-    margin-right: 120px;
+    margin-right: 200px;
 }
 
 .skills-title {
